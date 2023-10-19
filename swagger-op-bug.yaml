@@ -10,7 +10,7 @@ produces:
 consumes:
   - application/xml
   - application/json
-security:
+security: 
   - basicAuth: []
 paths:
   /accounts:
