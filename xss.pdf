@@ -1,32 +1,64 @@
 %PDF-1.4
-2 0 obj
+1 0 obj
 <<
-/Names 4 0 R
-/Pages 5 0 R
 /Type /Catalog
+/Pages 2 0 R
+/Names 3 0 R
 >>
 endobj
-4 0 obj
+2 0 obj
+<<
+/Type /Pages
+/Kids [4 0 R]
+/Count 1
+>>
+endobj
+3 0 obj
 <<
 /JavaScript 6 0 R
 >>
 endobj
+4 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [0 0 612 792]
+/Contents 5 0 R
+>>
+endobj
 5 0 obj
 <<
-/Count 1
-/Kids [7 0 R]
-/Type /Pages
+/Length 20
 >>
+stream
+BT
+/F1 12 Tf
+250 700 Td (Guax1 HERE) Tj
+ET
+endstream
 endobj
 6 0 obj
 <<
 /Names [(xs) <<
-/JS (app.alert\('Guax1-was-here'\))
+/JS (app.alert\('Hello, Guax1 here'\), app.alert\(this.path\);)
 /S /JavaScript
 >>]
 >>
 endobj
+xref
+0 7
+0000000000 65535 f
+0000000017 00000 n
+0000000074 00000 n
+0000000176 00000 n
+0000000280 00000 n
+0000000390 00000 n
+0000000518 00000 n
 trailer
 <<
-/Root 2 0 R
+/Size 7
+/Root 1 0 R
 >>
+startxref
+616
+%%EOF
