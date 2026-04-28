@@ -23,7 +23,7 @@ description: '<form><math><mtext></form><form><mglyph><svg><mtext><textarea><pat
 		</div>
 		</div>'
 paths:
-	/:
+    /:
 	post:
 		responses:
 		'200':
