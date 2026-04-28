@@ -21,10 +21,10 @@ description: '<form><math><mtext></form><form><mglyph><svg><mtext><textarea><pat
 				</div>
 			</form>
 		</div>
-</div>'
+		</div>'
 paths:
-/:
- post:
-	responses:
-	'200':
-	description: Login successful
+	/:
+	post:
+		responses:
+		'200':
+	  		description: Login successful
